@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mutio prazer! Me chamo Lucas!😁 <br>Nativo de São João del Rei - Minas Gerais - e apaixonado por tecnologia, sempre me dediquei totalmente em tudo que decidia aprender e com a programação não foi diferente! Tenho estudado cada vez mais em busca de aperfeiçoar minhas habilidades para me tornar um profissional de qualidade e com relevância no mercado!🚀</p>
+<p align="left">Muito prazer! Me chamo Lucas!😁 <br>Nativo de São João del Rei - Minas Gerais - e apaixonado por tecnologia, sempre me dediquei totalmente em tudo que decidia aprender e com a programação não foi diferente! Tenho estudado cada vez mais em busca de aperfeiçoar minhas habilidades para me tornar um profissional de qualidade e com relevância no mercado!🚀</p>
 
 ###
 
